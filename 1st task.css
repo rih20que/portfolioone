@@ -1,0 +1,35 @@
+.title{
+	color: #4B0082;
+	font-size: 45px;
+}
+.desc{
+	color: #9A0680;
+	font-size: 30px;
+}
+.note{
+	font-size: 35px;
+}
+.about{
+	color: #4B0082;
+	font-size: 30pX;
+}
+.abouts2{
+    color: #4B0082;
+	font-size: 26pX;	
+}
+.btn{                  
+   background-color: #2e367d;
+   color: white;
+   font-size: 20px;
+   width: 160px;
+   height: 50px;
+   border: none;
+   border-radius: 8px
+ }
+ .btn2{                  
+   background-color: #2e367d;
+   color: white;
+   width: 160px;
+   height: 50px;border: none;
+   border-radius: 8px
+ }
